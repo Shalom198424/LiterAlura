@@ -1,4 +1,5 @@
 # 📚 LiterAlura 📚
+"Descubre, guarda y organiza tus libros y autores favoritos con solo un par de clics."
 LiterAlura es una aplicación interactiva que te permite buscar, registrar y listar libros y autores de la biblioteca digital de Gutendex. Una herramienta ideal para amantes de la literatura.
 
 ## 🚀 Características Principales
@@ -17,6 +18,23 @@ Filtra los libros registrados según su idioma (Español o Inglés).
 7. Listar autores por año:
 - Nacimiento: Encuentra autores nacidos en un año específico.
 - Fallecimiento: Muestra autores fallecidos en un año concreto.
+
+## 🎨 Interfaz Interactiva
+Literalura te guía con un menú dinámico e intuitivo:
+--------------------------------------------
+🎉 Bienvenida(o) a Literalura 🎉
+
+1️⃣ - Buscar Libros por Título  
+2️⃣ - Buscar Autor por Nombre  
+3️⃣ - Listar Libros Registrados  
+4️⃣ - Listar Autores Registrados  
+5️⃣ - Listar Autores Vivos  
+6️⃣ - Listar Libros por Idioma  
+7️⃣ - Listar Autores por Año  
+0️⃣ - Salir  
+
+👉 Elige una opción y comienza tu viaje literario.
+--------------------------------------------
 
 ## 💻 Requisitos
 - Java 11 o superior
